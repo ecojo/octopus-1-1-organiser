@@ -1,3 +1,15 @@
+# Weekly 1:1 Updates Plugin
+
+**Quick Install:**
+1. Download `weekly-1-1-updates.plugin` from this repo
+2. Drag & drop into your Cowork chat
+3. Click "Install"
+4. Run **Setup Wizard** to configure for your team
+
+[Full setup guide →](PLUGIN_SETUP_GUIDE.md)
+
+---
+
 **Ready to get started?**
 
 For managers: Run the **Setup Wizard** skill to configure your team.
