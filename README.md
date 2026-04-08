@@ -1,6 +1,6 @@
 # 1-1-Organiser Plugin for Claude [Manager and Employee Mode]
 
-**Required Connectors :**
+**Claude Connectors (requirements) :**
 
 Required:
 Atlassian (JIRA + Confluence)
