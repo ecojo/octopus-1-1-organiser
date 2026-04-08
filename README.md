@@ -1,3 +1,11 @@
+**Ready to get started?**
+
+For managers: Run the **Setup Wizard** skill to configure your team.
+
+For employees: Ask "Prep my 1:1" to generate your first update.
+
+For everyone: Let the skills run on schedule and enjoy your prepared 1:1 meetings!
+
 # Weekly 1:1 Updates Plugin
 
 Automate your team's weekly 1:1 updates. Pull JIRA, Confluence, and manager feedback automatically to generate employee 1:1 prep or consolidate all team reports for manager review.
@@ -192,11 +200,3 @@ If you encounter issues or have feature requests:
 - Review the individual skill descriptions for detailed instructions
 
 ---
-
-**Ready to get started?**
-
-For managers: Run the **Setup Wizard** skill to configure your team.
-
-For employees: Ask "Prep my 1:1" to generate your first update.
-
-For everyone: Let the skills run on schedule and enjoy your prepared 1:1 meetings!
