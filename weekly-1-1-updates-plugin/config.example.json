@@ -1,0 +1,124 @@
+{
+  "setup_version": "1.0",
+  "team_info": {
+    "team_name": "Engineering",
+    "timezone": "America/Los_Angeles"
+  },
+  "manager_mode": {
+    "is_manager": true,
+    "manager_email": "marc.garcia@company.com",
+    "manager_name": "Marc Garcia",
+    "outlook_sync": true,
+    "direct_reports": [
+      "david.hoffmann@company.com",
+      "sarah.chen@company.com",
+      "jordan.smith@company.com"
+    ]
+  },
+  "employees": {
+    "david.hoffmann@company.com": {
+      "name": "David Hoffmann",
+      "jira_boards": ["BCR", "BonusFinder Dev"],
+      "confluence_page_pattern": "David Hoffmann - Manager 1:1 - {date}",
+      "email_config": {
+        "method": "folder",
+        "folder_name": "Weekly Feedback",
+        "subject_pattern": null
+      },
+      "one_on_one": {
+        "day": "Monday",
+        "time": "09:00",
+        "auto_discovered": true
+      }
+    },
+    "sarah.chen@company.com": {
+      "name": "Sarah Chen",
+      "jira_boards": ["BonusFinder Dev"],
+      "confluence_page_pattern": "Sarah Chen - Manager 1:1 - {date}",
+      "email_config": {
+        "method": "folder",
+        "folder_name": "Weekly Feedback",
+        "subject_pattern": null
+      },
+      "one_on_one": {
+        "day": "Wednesday",
+        "time": "09:00",
+        "auto_discovered": true
+      }
+    },
+    "jordan.smith@company.com": {
+      "name": "Jordan Smith",
+      "jira_boards": ["Infrastructure", "BonusFinder Dev"],
+      "confluence_page_pattern": "Jordan Smith - Manager 1:1 - {date}",
+      "email_config": {
+        "method": "folder",
+        "folder_name": "Weekly Feedback",
+        "subject_pattern": null
+      },
+      "one_on_one": {
+        "day": "Friday",
+        "time": "14:00",
+        "auto_discovered": true
+      }
+    }
+  },
+  "confluence": {
+    "space_key": "WEEKLY",
+    "space_name": "Weekly Feedback",
+    "date_format": "DD MMM YYYY",
+    "parent_folder": "Weekly Feedback"
+  },
+  "scaffold": {
+    "frequency": "quarterly",
+    "run_day_of_month": 1,
+    "run_time": "00:00",
+    "enabled": true
+  },
+  "schedule": {
+    "mode": "manager",
+    "created_schedules": [
+      {
+        "employee_email": "david.hoffmann@company.com",
+        "employee_name": "David Hoffmann",
+        "day": "Monday",
+        "time": "09:00",
+        "skill": "employee-update"
+      },
+      {
+        "employee_email": "david.hoffmann@company.com",
+        "employee_name": "David Hoffmann",
+        "day": "Monday",
+        "time": "09:00",
+        "skill": "manager-updates"
+      },
+      {
+        "employee_email": "sarah.chen@company.com",
+        "employee_name": "Sarah Chen",
+        "day": "Wednesday",
+        "time": "09:00",
+        "skill": "employee-update"
+      },
+      {
+        "employee_email": "sarah.chen@company.com",
+        "employee_name": "Sarah Chen",
+        "day": "Wednesday",
+        "time": "09:00",
+        "skill": "manager-updates"
+      }
+    ]
+  },
+  "connectors_required": [
+    "jira",
+    "confluence",
+    "outlook",
+    "slack (optional)",
+    "teams (optional)"
+  ],
+  "last_updated": "2026-01-15T09:00:00Z",
+  "created_infrastructure": {
+    "confluence_space_created": true,
+    "parent_folder_created": true,
+    "employee_folders_created": 3,
+    "year_folders_created": 3
+  }
+}

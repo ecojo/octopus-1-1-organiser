@@ -1,0 +1,9 @@
+{
+  "name": "weekly-1-1-updates",
+  "version": "0.1.0",
+  "description": "Automate team weekly 1:1 updates. Configurable plugin that pulls JIRA, Confluence, and manager feedback to generate employee 1:1 prep or consolidate all team reports for manager review.",
+  "author": {
+    "name": "David Hoffmann"
+  },
+  "keywords": ["1:1", "updates", "team", "jira", "confluence", "feedback"]
+}
