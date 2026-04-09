@@ -6,7 +6,7 @@
 :octopus: :wrench:
 ---
 
-**Ready to get started?**
+**Ready to get started with Octo 1-1 organiser?**
 
 For managers: Run the **Setup Wizard** skill to configure your team or simply drag and drop the weekly-1-1-updates.plugin into your **Claude Cowork task** to start the configuration setup wizard.
 
