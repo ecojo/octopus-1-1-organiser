@@ -38,7 +38,7 @@ Teams (for team notifications)
 
 Automate your team's weekly 1:1 updates. Pull JIRA, Confluence, and manager feedback automatically to generate employee 1:1 prep or consolidate all team reports for manager review.
 
-## What Octo 1:1 Does
+## What Octopus 1:1 Does
 
 **For employees**: Automatically gathers your JIRA updates, manager feedback email, and notes from past 1:1s, then generates a summary you can review and edit before your meeting.
 
@@ -54,7 +54,7 @@ Automate your team's weekly 1:1 updates. Pull JIRA, Confluence, and manager feed
 
 ## Quick Start
 
-### Step 1: Run Octo Setup Wizard (Manager Only)
+### Step 1: Run Octopus Setup Wizard .plugin (Manager Only)
 
 The manager should run the **Setup Wizard** skill first or drag and drop the weekly-1-1-updates.plugin into Claude Cowork:
 
