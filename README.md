@@ -34,11 +34,11 @@ Teams (for team notifications)
 [Full setup guide →](PLUGIN_SETUP_GUIDE.md)
 
 
-# Weekly 1:1 Updates Plugin
+# Octo Weekly 1:1 Updates Plugin
 
 Automate your team's weekly 1:1 updates. Pull JIRA, Confluence, and manager feedback automatically to generate employee 1:1 prep or consolidate all team reports for manager review.
 
-## What It Does
+## What Octo 1:1 Does
 
 **For employees**: Automatically gathers your JIRA updates, manager feedback email, and notes from past 1:1s, then generates a summary you can review and edit before your meeting.
 
@@ -54,7 +54,7 @@ Automate your team's weekly 1:1 updates. Pull JIRA, Confluence, and manager feed
 
 ## Quick Start
 
-### Step 1: Run Setup Wizard (Manager Only)
+### Step 1: Run Octo Setup Wizard (Manager Only)
 
 The manager should run the **Setup Wizard** skill first or drag and drop the weekly-1-1-updates.plugin into Claude Cowork:
 
