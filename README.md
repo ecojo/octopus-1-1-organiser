@@ -6,6 +6,21 @@
 :octopus: :wrench:
 ---
 
+## 🐙 🔧
+
+**Quick Install:**
+
+1. Download `weekly-1-1-updates.plugin` from this repo
+2. Drag & drop into your Cowork chat
+3. Click "Install"
+4. Run Setup Wizard to configure for your team
+
+[Full setup guide →](https://github.com/ecojo/octopus-1-1-organiser/blob/main/PLUGIN_SETUP_GUIDE.md)
+
+> **⚠️ Claude Connectors (requirements):**
+> **Required:** Atlassian (JIRA + Confluence), Microsoft 365 (Outlook for feedback emails)
+> **Optional:** Slack (for team notifications), Teams (for team notifications)
+
 **Ready to get started with Octopus 1-1 organiser?**
 
 For managers: Run the **Setup Wizard** skill to configure your team or simply drag and drop the weekly-1-1-updates.plugin into your **Claude Cowork task** to start the configuration setup wizard.
@@ -13,26 +28,6 @@ For managers: Run the **Setup Wizard** skill to configure your team or simply dr
 For employees: Ask "Prep my 1:1" to generate your first update.
 
 For everyone: Let the skills run on schedule and enjoy your prepared 1:1 meetings!
-
-
-
-**Claude Connectors (requirements) :**
-
-Required:
-Atlassian (JIRA + Confluence)
-Microsoft 365 (Outlook for feedback emails)
-Optional:
-Slack (for team notifications)
-Teams (for team notifications)
-
-**Quick Install:**
-1. Download `weekly-1-1-updates.plugin` from this repo
-2. Drag & drop into your Cowork chat
-3. Click "Install"
-4. Run **Setup Wizard** to configure for your team
-
-[Full setup guide →](PLUGIN_SETUP_GUIDE.md)
-
 
 # :octopus: Octopus Weekly 1:1 Updates Plugin
 
