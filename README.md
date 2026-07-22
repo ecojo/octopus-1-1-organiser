@@ -6,8 +6,6 @@
 :octopus: :wrench:
 ---
 
-## 🐙 🔧
-
 **Quick Install:**
 
 1. Download `weekly-1-1-updates.plugin` from this repo
