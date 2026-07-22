@@ -4,6 +4,16 @@
 **WARNING: This will boost your weekly productivity and take stress out of organising your weeks work plan with your Manager/employees**
 
 :octopus: :wrench:
+
+**Quick Install:**
+1. Download `weekly-1-1-updates.plugin` from this repo
+2. Drag & drop into your Cowork chat
+3. Click "Install"
+4. Run **Setup Wizard** to configure for your team
+
+[Full setup guide →](PLUGIN_SETUP_GUIDE.md)
+
+
 ---
 
 **Ready to get started with Octopus 1-1 organiser?**
@@ -24,14 +34,6 @@ Microsoft 365 (Outlook for feedback emails)
 Optional:
 Slack (for team notifications)
 Teams (for team notifications)
-
-**Quick Install:**
-1. Download `weekly-1-1-updates.plugin` from this repo
-2. Drag & drop into your Cowork chat
-3. Click "Install"
-4. Run **Setup Wizard** to configure for your team
-
-[Full setup guide →](PLUGIN_SETUP_GUIDE.md)
 
 
 # :octopus: Octopus Weekly 1:1 Updates Plugin
